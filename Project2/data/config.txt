@@ -1,0 +1,12 @@
+{
+  "filePath": "Orders.xlsx",
+  "URL": "http://training.openspan.com/login",
+  "Username": "Conner",
+  "Password": "OrderMaster",
+  "Retry": 2,
+  "CardType": "Visa",
+  "SecurityCode": "123",
+  "CardNumber": "123456789",
+  "ExpirationMonth": "April",
+  "ExpirationYear": "2020"
+}
